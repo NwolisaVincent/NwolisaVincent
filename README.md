@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Vincent!👋
 
-<!--
-**NwolisaVincent/NwolisaVincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 I'm a 3rd-year Computer Science Student.
+- 🔭 I'm currently working on React applications and Python projects
+- 💬 Ask me about web development and Python programming
+- 📫 How to reach me: nwolisavincent@gmail.com
+---
 
-Here are some ideas to get you started:
+## Technologies I Use:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### HTML, CSS, Javascript, React.js, Python, Bootstrap, Tailwind CSS
+- ### (more to come)
+---
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/nwolisa-vincent
+- Telegram: https://t.me/vincentgotrizzz
+- Gmail: nwolisavincent@gmail.com
+---
