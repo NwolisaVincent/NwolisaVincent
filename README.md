@@ -14,7 +14,7 @@
 ---
 
 ## Connect With Me
-- LinkedIn: www.linkedin.com/in/nwolisa-vincent
+- WhatsApp: https://wa.me/+2349075771885
 - Telegram: https://t.me/vincentgotrizzz
 - Gmail: nwolisavincent@gmail.com
 ---
