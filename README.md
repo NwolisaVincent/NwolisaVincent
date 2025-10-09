@@ -10,9 +10,7 @@
 
 ## Technologies I Use:
 
-- ### HTML, CSS, Javascript, React.js, Python,
-- ### Animate.css, Bootstrap, Tailwind CSS,
-- ### Node.js + Express, jQuery, NPM
+- ### HTML, CSS, Javascript, React.js, Python, Animate.css, Bootstrap, Tailwind CSS, Node.js + Express, jQuery, NPM
 - ### (more to come)
 ---
 
