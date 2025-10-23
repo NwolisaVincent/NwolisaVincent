@@ -10,7 +10,7 @@
 
 ## Technologies I Use:
 
-- ### HTML, CSS, Javascript, React.js, Python, Animate.css, Bootstrap, Tailwind CSS, Node.js + Express, jQuery, NPM, Axios, PostgreSQL, Authentication & Security
+- ### HTML, CSS, Javascript, React.js, Java, Python, Animate.css, Bootstrap, Tailwind CSS, Node.js + Express, jQuery, NPM, Axios, PostgreSQL, Authentication & Security
 - ### (more to come)
 ---
 
