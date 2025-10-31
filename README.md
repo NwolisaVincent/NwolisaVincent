@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌱 I'm a 3rd-year Computer Science Student.
-- 🔭 I'm currently working on React applications and Python projects
+- 🔭 I'm currently working on Java multi-threaded applications and Node.js projects
 - 💬 Ask me about web development and Python programming
 - 🕸 Check out my Website: https://nwolisavincent.netlify.app/
 - 📫 How to reach me: nwolisavincent@gmail.com
@@ -10,7 +10,7 @@
 
 ## Technologies I Use:
 
-- ### HTML, CSS, Javascript, React.js, Java, Python, Animate.css, Bootstrap, Tailwind CSS, Node.js + Express, jQuery, NPM, Axios, PostgreSQL, Authentication & Security
+- ### HTML, CSS, Javascript, React.js, C#, Java, Python, Animate.css, Bootstrap, Tailwind CSS, Node.js + Express, jQuery, NPM, Axios, PostgreSQL, Authentication & Security
 - ### (more to come)
 ---
 
